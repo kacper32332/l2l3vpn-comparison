@@ -1,4 +1,3 @@
-Implementation, testing, and demonstration of L2VPN and L3VPN virtual networks using Open vSwitch in a Mininet environment.
 # L2VPN and L3VPN Implementation using Open vSwitch & Mininet
 
 ## Project Overview
